@@ -1,0 +1,12 @@
+*.iml
+overlays
+.svn
+.idea
+target
+*.class
+*.jar
+*.war
+*.log
+/scripts
+.#*
+dependency-reduced-pom.xml
